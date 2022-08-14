@@ -1,0 +1,25 @@
+h3 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+}
+
+
+
+body {
+    background-image: url(download.png);
+    background-position: center;
+}
+
+.logo {
+    width: 1550px;
+    margin: -50px 550px
+}
+
+.main {
+
+
+    margin: 50px 519px
+}
